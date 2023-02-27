@@ -18,7 +18,13 @@
     background-color: var(--fra-light);
 }
 
-.my_container
+.my_container_lg
+{
+    width: 95%;
+    margin: auto;
+}
+
+.my_container_sm
 {
    width: 70%;
     margin: auto;
@@ -77,7 +83,7 @@
     border: 1px dashed red;
 }
 
-.debug .contact .my_container
+.debug .contact .my_container_sm
 {
     background-color: blue;
 }
