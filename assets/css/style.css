@@ -46,4 +46,11 @@
     height: 300px;
 }
 
+.debug .portfolio [class^=col]
+{
+    border: 1px dashed black;
+    background-color: red;
+    height: 200px;
+}
+
 /* #endregion debug */
