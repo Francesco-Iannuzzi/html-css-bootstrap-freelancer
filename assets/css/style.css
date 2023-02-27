@@ -86,4 +86,22 @@
 {
     height: 50px;
 }
+
+.debug .footer_top
+{
+    background-color: var(--fra-dark);
+}
+
+.debug .footer_top [class^=col]
+{
+    background-color: red;
+    border: 1px dashed white;
+    height: 100px;
+}
+
+.debug .footer_bottom
+{
+    background-color: var(--fra-darker);
+    height: 50px;
+}
 /* #endregion debug */
