@@ -2,10 +2,32 @@
 
 :root
 {
-    --fra-primary: #ffffff;
-    --fra-primary: #2c3e50;
+    --fra-light: #ffffff;
+    --fra-darker: #2c3e50;
     --fra-primary: #1abc9c;
-    --fra-primary: #3a546d;
+    --fra-dark: #3a546d;
 }
 
 /* #endregion utilities */
+
+/* #region debug */
+
+.debug .app_header
+{
+    background-color: var(--fra-darker);
+    height: 70px;
+}
+
+.debug .left
+{
+    background-color: red;
+    height: 70px;
+}
+
+.debug .right
+{
+    background-color: yellow;
+    height: 70px;
+}
+
+/* #endregion debug */
