@@ -56,8 +56,8 @@
     height: 200px;
 }
 
-.debug .about .top,
-.debug .about .bottom
+.debug .about .about_top,
+.debug .about .about_bottom
 {
     background-color: yellow;
     height: 200px;
@@ -65,4 +65,25 @@
     border: 1px dashed red;
 }
 
+.debug .contact .container
+{
+    background-color: blue;
+}
+
+.debug .contact_info,
+.debug .contact_send
+{
+    background-color: yellow;
+    border: 1px dashed red;
+}
+
+.debug .contact_info
+{
+    height: 100px;
+}
+
+.debug .contact_send
+{
+    height: 50px;
+}
 /* #endregion debug */
