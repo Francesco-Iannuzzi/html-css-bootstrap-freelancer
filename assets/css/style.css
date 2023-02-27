@@ -56,6 +56,12 @@
     height: 200px;
 }
 
+.debug .portfolio .card
+{
+    background-color: yellow;
+    height: 190px;
+}
+
 .debug .about .about_top,
 .debug .about .about_bottom
 {
