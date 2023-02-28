@@ -40,6 +40,31 @@
     background-color: var(--fra-write);
 }
 
+.tx_fra_light
+{
+    color: var(--fra-light);
+}
+
+.tx_fra_darker
+{
+    color: var(--fra-darker);
+}
+
+.tx_fra_primary
+{
+    color: var(--fra-primary);
+}
+
+.tx_fra_dark
+{
+    color: var(--fra-dark);
+}
+
+.tx_fra_write
+{
+    color: var(--fra-write);
+}
+
 .fs_fra_sm
 {
     font-size: 0.5rem;
@@ -52,20 +77,3 @@
 }
 
 /* #endregion utilities */
-
-/* #region debug */
-
-.debug .footer_top
-{
-    background-color: var(--fra-dark);
-}
-
-.debug .footer_top [class^=col]
-{
-    background-color: red;
-    border: 1px dashed white;
-    height: 100px;
-}
-
-
-/* #endregion debug */
