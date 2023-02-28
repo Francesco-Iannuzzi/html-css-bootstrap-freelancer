@@ -87,3 +87,13 @@
 }
 
 /* #endregion utilities */
+
+.contact_send button:hover{
+    border-color: var(--fra-write);
+}
+
+.social a:hover
+{
+    color: var(--fra-light);
+    opacity: 0.5;
+}
