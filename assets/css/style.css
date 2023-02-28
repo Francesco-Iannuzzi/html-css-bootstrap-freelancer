@@ -50,46 +50,6 @@
 
 /* #region debug */
 
-/* .debug .app_header
-{
-    background-color: var(--fra-darker);
-    height: 70px;
-} */
-
-/* .debug .logo
-{
-    background-color: red;
-    border: 1px dashed black;
-    height: 70px;
-}
-
-.debug .menu
-{
-    background-color: yellow;
-    border: 1px dashed black;
-    height: 70px;
-} */
-
-/* .debug .jumbo .container
-{
-    background-color: blue;
-    border: 1px dashed yellow;
-    height: 300px;
-} */
-
-.debug .portfolio [class^=col]
-{
-    border: 1px dashed black;
-    background-color: red;
-    height: 200px;
-}
-
-.debug .portfolio .card
-{
-    background-color: yellow;
-    height: 190px;
-}
-
 .debug .about .about_top,
 .debug .about .about_bottom
 {
