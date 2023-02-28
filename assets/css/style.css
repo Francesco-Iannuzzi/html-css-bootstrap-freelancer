@@ -50,37 +50,6 @@
 
 /* #region debug */
 
-/* .debug .about .about_top,
-.debug .about .about_bottom
-{
-    background-color: yellow;
-    height: 200px;
-    width: 100%;
-    border: 1px dashed red;
-} */
-
-.debug .contact .my_container_sm
-{
-    background-color: blue;
-}
-
-.debug .contact_info,
-.debug .contact_send
-{
-    background-color: yellow;
-    border: 1px dashed red;
-}
-
-.debug .contact_info
-{
-    height: 100px;
-}
-
-.debug .contact_send
-{
-    height: 50px;
-}
-
 .debug .footer_top
 {
     background-color: var(--fra-dark);
