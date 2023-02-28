@@ -6,16 +6,32 @@
     --fra-darker: #2c3e50;
     --fra-primary: #1abc9c;
     --fra-dark: #3a546d;
+    --fra-write: #333333;
 }
 
-.odd
+.bg_fra_light
+{
+    background-color: var(--fra-light);
+}
+
+.bg_fra_darker
+{
+    background-color: var(--fra-darker);
+}
+
+.bg_fra_primary
 {
     background-color: var(--fra-primary);
 }
 
-.even
+.bg_fra_dark
 {
-    background-color: var(--fra-light);
+    background-color: var(--fra-dark);
+}
+
+.bg_fra_write
+{
+    background-color: var(--fra-write);
 }
 
 .my_container_lg
@@ -34,11 +50,11 @@
 
 /* #region debug */
 
-.debug .app_header
+/* .debug .app_header
 {
     background-color: var(--fra-darker);
     height: 70px;
-}
+} */
 
 .debug .logo
 {
@@ -54,7 +70,7 @@
     height: 70px;
 }
 
-.debug .banner .my_container_lg
+.debug .jumbo .container
 {
     background-color: blue;
     border: 1px dashed yellow;
