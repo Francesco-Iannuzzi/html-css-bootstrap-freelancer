@@ -42,7 +42,7 @@
 
 .my_container_sm
 {
-   width: 80%;
+   width: 70%;
     margin: auto;
 }
 
@@ -50,14 +50,14 @@
 
 /* #region debug */
 
-.debug .about .about_top,
+/* .debug .about .about_top,
 .debug .about .about_bottom
 {
     background-color: yellow;
     height: 200px;
     width: 100%;
     border: 1px dashed red;
-}
+} */
 
 .debug .contact .my_container_sm
 {
