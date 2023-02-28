@@ -40,6 +40,11 @@
     background-color: var(--fra-write);
 }
 
+.fs_fra_sm
+{
+    font-size: 0.5rem;
+}
+
 .my_container_sm
 {
    width: 70%;
@@ -62,15 +67,5 @@
     height: 100px;
 }
 
-.debug .footer_bottom
-{
-    background-color: var(--fra-darker);
-    height: 50px;
-}
+
 /* #endregion debug */
-
-/* #region jumbotron */
-
-
-
-/* #endregion jumbotron */
