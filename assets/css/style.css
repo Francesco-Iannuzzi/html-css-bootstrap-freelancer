@@ -70,6 +70,16 @@
     font-size: 0.5rem;
 }
 
+.fs_fra_md
+{
+    font-size: 0.75rem;
+}
+
+.fs_fra_lg
+{
+    font-size: 1.5rem;
+}
+
 .my_container_sm
 {
    width: 70%;
